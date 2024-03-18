@@ -1,0 +1,34 @@
+.calculator
+{
+    width: 220px;
+    background-color: rgb(159, 22, 97);
+    border-radius: 5px;
+    padding: 22px;
+    display: flex;
+    flex-wrap: wrap;
+}
+h1
+{
+    color: white;
+}
+#display
+{
+    
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 5px solid rgb(0, 0, 0);
+    font-size: 15px;
+}
+.btn
+{
+    width: 51px;
+    height: 51px;
+    border-radius: 50%;
+    border: 0;
+    margin-bottom: 10px;
+}
+button
+{
+    font-size: 20px;
+}
